@@ -32,5 +32,4 @@ public class MyInputStream extends InputStream {
         }
         return -1;
     }
-
 }

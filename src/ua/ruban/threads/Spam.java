@@ -42,8 +42,7 @@ public class Spam {
             e.printStackTrace();
         }
     }
-
-
+    
     public void starT() {
         for (int i=0; i<n; i++){
             Thread t = new Worker(mass[i],tim[i]);
